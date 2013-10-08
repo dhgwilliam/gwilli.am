@@ -1,4 +1,4 @@
-baseurl: ''
+baseurl: http://gwilli.am
 permalink: pretty
 markdown: rdiscount
 prose:
